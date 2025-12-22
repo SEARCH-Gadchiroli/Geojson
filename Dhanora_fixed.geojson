@@ -7606,6 +7606,167 @@
         "STATE": "Maharashtra",
         "TYPE": "village"
       }
-    }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.2005991, 20.1474459]
+      },
+    "properties": {
+      "name": "Ushirpar",
+      "district": "Gadchiroli",
+      "SUB_DIST": "Dhanora",
+      "STATE": "Maharashtra",
+      "TYPE": "village",
+      "gps_altitude": 161.9455566,
+      "gps_precision": 3.91
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.3381383, 20.2715233]
+  },
+  "properties": {
+    "name": "Kovantola",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 181.6340332,
+    "gps_precision": 4.68
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.1221457, 20.1532362]
+  },
+  "properties": {
+    "name": "Jambhali Tola",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 147.0280151,
+    "gps_precision": 4.816
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.4351459, 20.0705774]
+  },
+  "properties": {
+    "name": "Pavetola",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 232.6159058,
+    "gps_precision": 4.829
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.2241855, 20.2427812]
+  },
+  "properties": {
+    "name": "Fhashitola",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 146.5029297,
+    "gps_precision": 4.833
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.6126769, 20.3331175]
+  },
+  "properties": {
+    "name": "Makdand",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 303.4824219,
+    "gps_precision": 4.933
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.2587497, 20.3522233]
+  },
+  "properties": {
+    "name": "Mohali Tola",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 197.9560547,
+    "gps_precision": 5.337
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.3603311, 20.3524702]
+  },
+  "properties": {
+    "name": "Rengatola",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 194.2781982,
+    "gps_precision": 4.927
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.491703, 20.045625]
+  },
+  "properties": {
+    "name": "Hatzar",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 231.9885254,
+    "gps_precision": 7.209
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [80.2991845, 20.013075]
+  },
+  "properties": {
+    "name": "Haranda",
+    "district": "Gadchiroli",
+    "SUB_DIST": "Dhanora",
+    "STATE": "Maharashtra",
+    "TYPE": "village",
+    "gps_altitude": 256.7285767,
+    "gps_precision": 9.132
+  }
+}
+
   ]
 }
